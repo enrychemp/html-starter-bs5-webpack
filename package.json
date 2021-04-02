@@ -1,16 +1,16 @@
 {
-  "name": "html-starter-v2",
+  "name": "html-starter-bs5-webpack",
   "description": "",
   "keywords": [],
-  "version": "2.0.0",
-  "author": "Marcin Dobroszek <marcin@silversite.pl>",
+  "version": "1.0.0",
+  "author": "enrychemp <enrychemp@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/silversite/HTML-Starter-v2.git"
+    "url": "https://github.com/enrychemp/html-starter-bs5-webpack.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/silversite/HTML-Starter-v2/issues"
+    "url": "https://github.com/enrychemp/html-starter-bs5-webpack/issues"
   },
   "main": "index.js",
   "scripts": {

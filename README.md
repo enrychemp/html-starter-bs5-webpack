@@ -1,12 +1,6 @@
-<img src="http://marcin.silversite.pl/html-starter-bs4-webpack/logo-small.png" width="150" height="58" alt="">
+# Boostrap 5 Starter Kit
 
-# HTML Starter
-
-[![Bootstrap](https://flat.badgen.net/badge/bootstrap/4.3/7952b3)](https://getbootstrap.com)
-[![Webpack](https://flat.badgen.net/badge/webpack/4/14aaf3)](https://webpack.js.org)
-[![dependencies](https://flat.badgen.net/david/dep/cichy380/html-starter-bs4-webpack)](https://david-dm.org/cichy380/html-starter-bs4-webpack)
-[![devDependencies](https://flat.badgen.net/david/dev/cichy380/html-starter-bs4-webpack)](https://david-dm.org/cichy380/html-starter-bs4-webpack?type=dev)
-[![license](https://flat.badgen.net/github/license/cichy380/html-starter-bs4-webpack)](https://github.com/cichy380/html-starter-bs4-webpack/blob/master/LICENSE.md)
+Based on work of cichy380  -> [html-starter-bs4-webpack ](https://github.com/cichy380/html-starter-bs4-webpack)
 
 Kick-start your project with [Bootstrap](https://getbootstrap.com/), the world's most popular framework and modern development workflow.
 This boilerplate with [Webpack](https://webpack.js.org/) based setup helps you build web apps and sites much faster.
@@ -22,9 +16,9 @@ This boilerplate with [Webpack](https://webpack.js.org/) based setup helps you b
   * convert ES6+ code into a backwards compatible with [Babel](https://babeljs.io/)
 * Includes:
   * **[Webpack 4](https://webpack.js.org/)** configuration - module bundler
-  * **[Bootstrap 4](http://getbootstrap.com/)** - the most popular HTML, CSS and JS framework
-  * [jQuery](http://jquery.com/) - JavaScript library
-  * [Font Awesome 5](https://fontawesome.com/) - the web's most popular vector icons and social logos
+  * **[Bootstrap 5](http://getbootstrap.com/)** - (beta 3) the most popular HTML, CSS and JS framework
+  * ~~[jQuery](http://jquery.com/) - JavaScript library~~
+  * ~~[Font Awesome 5](https://fontawesome.com/) - the web's most popular vector icons and social logos~~
   * [Google Fonts](https://fonts.google.com/) - libre licensed fonts
 * sourceMaps
 * and more...
@@ -88,11 +82,6 @@ html-starter-bs4-webpack/
 ├── package-lock.json       # Node.js dependencies lock file (don't edit)
 └── [...]                   # other...
 ```
-
-## Demo
-
-Sample of *HTML Starter* usage placed in separate branche:
- * [demo branch](https://github.com/cichy380/html-starter-bs4-webpack/tree/demo) ─ simple corporate website
 
 ## License
 
