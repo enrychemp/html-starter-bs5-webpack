@@ -8,6 +8,7 @@ This boilerplate with [Webpack](https://webpack.js.org/) based setup helps you b
 ## Features
 
 * **Live reloading** <br> browser update after changes
+* **No jQuery** <br> browser update after changes
 * **Automatically optimizes** entry files <br> concatenate, minify and inject output files to HTML
 * **[Sass](https://sass-lang.com/) for stylesheets** <br> with [the 7-1 Pattern](https://sass-guidelin.es/#the-7-1-pattern)
 * **Modern JavaScript** <br> ES6 modules-based code linting by [ESLint](https://eslint.org/)
@@ -16,9 +17,8 @@ This boilerplate with [Webpack](https://webpack.js.org/) based setup helps you b
   * convert ES6+ code into a backwards compatible with [Babel](https://babeljs.io/)
 * Includes:
   * **[Webpack 4](https://webpack.js.org/)** configuration - module bundler
+  * **[Poppersjs](https://popper.js.org//)** - Required by Bootstrap 5
   * **[Bootstrap 5](http://getbootstrap.com/)** - (beta 3) the most popular HTML, CSS and JS framework
-  * ~~[jQuery](http://jquery.com/) - JavaScript library~~
-  * ~~[Font Awesome 5](https://fontawesome.com/) - the web's most popular vector icons and social logos~~
   * [Google Fonts](https://fonts.google.com/) - libre licensed fonts
 * sourceMaps
 * and more...
@@ -85,4 +85,4 @@ html-starter-bs4-webpack/
 
 ## License
 
-Code released under the [MIT license](https://github.com/cichy380/html-starter-bs4-webpack/blob/master/LICENSE.md).
+Code released under the [MIT license](https://github.com/enrychemp/html-starter-bs5-webpack/blob/master/LICENSE.md).
