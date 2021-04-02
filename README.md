@@ -33,15 +33,15 @@ This boilerplate with [Webpack](https://webpack.js.org/) based setup helps you b
 1. Install [Node.js](http://nodejs.org/) (installation depends on your system). After finishing, you will be able to 
 check the version number using `node -v` and `npm -v` commands 
 ([npm is distributed with Node.js](https://www.npmjs.com/get-npm)).
-2. Clone the repo using `git clone https://github.com/cichy380/html-starter-bs4-webpack.git` or [download *HTML Starter*](https://github.com/cichy380/html-starter-bs4-webpack/archive/master.zip).
-3. Open folder **html-starter-bs4-webpack** (command: `cd html-starter-bs4-webpack`) and install a packages of *HTML Starter* via `npm install` command. 
+2. Clone the repo using `git clone https://github.com/enrychemp/html-starter-bs5-webpack.git` or [download *HTML Starter*](https://github.com/enrychemp/html-starter-bs5-webpack/archive/master.zip).
+3. Open folder **html-starter-bs5-webpack** (command: `cd html-starter-bs5-webpack`) and install a packages of *HTML Starter* via `npm install` or `yarn install` command. 
 
 Now you have everything you need to run the build process.
 
 #### Build commands
 
-* `npm run start` ─ compile assets when file changes are made, start [webpack-dev-server](https://github.com/webpack/webpack-dev-server) session
-* `npm run build` ─ compile and optimize (the files in your assets directory) for production
+* `npm run start` or `yarn start` ─ compile assets when file changes are made, start [webpack-dev-server](https://github.com/webpack/webpack-dev-server) session
+* `npm run build` or `yarn build`  ─ compile and optimize (the files in your assets directory) for production
 
 ## Structure
 
@@ -60,7 +60,7 @@ html-starter-bs4-webpack/
 │   │  └── [...]
 │   ├── scripts/            # template javascript files
 │   │  ├── vendor/          # necessary parts of frameworks and libs
-│   │  │  └── [...]         # Bootstrap, FontAwesome, jQuery
+│   │  │  └── [...]         # Bootstrap, ...
 │   │  └── main.js          # main javascript file that references JS source files
 │   ├── scss/               # template styles
 │   │  ├── [...]            # 7-1 Sass architecture folders
